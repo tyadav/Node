@@ -15,4 +15,4 @@ function summariseUser(userName, userAge, userhasHobby) {
 
 console.log(summariseUser(name, age, hasHobbies));
 
-//console.log(name);
+// console.log(name);
